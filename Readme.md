@@ -1,6 +1,6 @@
 # MoogFilter
 
-A JUCE implementation of Antti Huovilainen's non-linear model of the Moog filter. Done as a coursework for a Digital Audio Effects module at Queen Mary University of London.
+A [JUCE](https://github.com/julianstorer/JUCE) implementation of Antti Huovilainen's non-linear model of the Moog filter. Done as a coursework for a Digital Audio Effects module at Queen Mary University of London.
 
 #### References:
 
